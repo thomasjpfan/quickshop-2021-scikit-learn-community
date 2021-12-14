@@ -1,6 +1,6 @@
 # Scikit-learn: Community is a Skill
 
-[Link to slides](https://thomasjpfan.github.io/slides-template/)
+[Link to slides](https://thomasjpfan.github.io/quickshop-2021-scikit-learn-community)
 
 ## License
 
